@@ -3,7 +3,8 @@
 # I'm Front End Developer
 
 ## Languages:
-- HTML, CSS, Javascript, SASS, ReactJS
+- HTML, CSS, Javascript, JQuery, SASS, GruntJS, ReactJS
+- Other: Figma, Photoshop, Git
 
 ## Contact me:
 - Email: trieunt76@gmail.com

@@ -2,7 +2,7 @@
 
 # I'm Front End Developer
 
-## Languages:
+## My Skills:
 - HTML, CSS, Javascript, JQuery, SASS, GruntJS, ReactJS
 - Other: Figma, Photoshop, Git
 
